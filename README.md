@@ -36,6 +36,11 @@ The second requirement was to run linear regression on each relationship. This t
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
+## Part II - VacationPY
+
+We attempt to plan future vacations by using jupyter-maps and the Google Places API to find hotels within range of the cities we found in WeatherPy.
+
+We map the heat maps.
 
 ### Copyright
 
